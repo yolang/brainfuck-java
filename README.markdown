@@ -28,6 +28,7 @@ Languages supported.
 * Brainfuck original.
 * TrollScript
 * Ook!
+* yo!lang
 
 Coming soon
 ---------------
